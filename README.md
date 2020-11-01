@@ -7,8 +7,8 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2020 Goals: Learn the latest dev tech and practise on data stuctures & algorithm
-- 👯 I’m looking to meet some coding partners :p
+- 🥅 2020 Goals: Learn the latest Dev Tech and practise on Data Stuctures & Algorithm
+- 👯 I’m looking to meet some coding partners 😛
 - ⚡ Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
 <!-- ### Spotify Playing 🎧
 
