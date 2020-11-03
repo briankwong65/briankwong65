@@ -10,7 +10,8 @@
 - 🥅 2020 Goals: Learn the latest Dev Tech and practise on Data Stuctures & Algorithm
 - 🌱 Planning to create more repositories and my portfolio website
 - 👯 I’m looking to meet some coding partners 😛
-- ⚡ Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
+- 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
+- ⚡ Latest ongoing repository: merng-book
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
