@@ -11,7 +11,7 @@
 - 🌱 Planning to create more repositories and my portfolio website
 - 👯 I’m looking to meet some coding partners 😛
 - 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
-- ⚡ Latest ongoing repository: [Fire Chat](https://github.com/briankwong65/fire-chat)
+- ⚡ Latest ongoing repository: [Firechat](https://github.com/briankwong65/firechat)
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
