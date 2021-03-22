@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2020 Goals: Learn the latest Dev Tech and practise on DSA
+- 🥅 2021 Goals: Learn the latest Dev Tech and practise on DSA
 - 🌱 Planning to create more repositories and my portfolio website
 - 👯 I’m looking to meet some coding partners 😛
 - 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
