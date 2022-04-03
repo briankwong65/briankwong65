@@ -7,11 +7,11 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2021 Goals: Learn the latest Dev Tech and practise on DSA
-- 🌱 Planning to create more repositories and my portfolio website
+- 🥅 2022 Goals: Learn about Crypto and Blockchain technologies, and practise on DSA
+- 🌱 Planning to create more repositories
 - 👯 I’m looking to meet some coding partners 😛
 - 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
-- ⚡ Latest ongoing repository: [Firechat](https://github.com/briankwong65/firechat)
+- ⚡ Latest project: [InvestMan Genesis Pass](https://investman.io)
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
