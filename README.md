@@ -11,7 +11,7 @@
 - 🌱 Planning to create more repositories
 - 👯 I’m looking to meet some coding partners 😛
 - 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
-- ⚡ Latest project: [Just For Fun @BAYC](https://investman.io/jffbayc) （[Etherscan](https://etherscan.io/address/0x0c24f4224dd1abdaa907bacc26679f7e06a8a442)
+- ⚡ Latest project: [Just For Fun @BAYC](https://investman.io/jffbayc) （[Etherscan](https://etherscan.io/address/0x0c24f4224dd1abdaa907bacc26679f7e06a8a442) 
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
