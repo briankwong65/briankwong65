@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2022 Goals: Learn about Crypto and Blockchain technologies, and practise on DSA
+- 🥅 2022 Goals: Learn about Crypto and Blockchain technologies
 - 🌱 Planning to create more repositories
 - 👯 I’m looking to meet some coding partners 😛
 - 👾 Fun fact: I love singing pop songs🎤 and running🏃‍♂️!
